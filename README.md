@@ -65,3 +65,5 @@ The repo includes two VBA code files:
 ## Support
 
 Feel free to open issues for bug reports or feature requests.
+
+![VBA](https://img.shields.io/badge/Language-VBA-blue)
